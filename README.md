@@ -55,7 +55,6 @@ If you want to run the project locally, follow these steps:
 
 For inquiries or collaboration, reach out via:
 
-- **GitHub:** [@transs-dev](https://github.com/transs-dev)
 - **Email:** ayesajuliee@gmail.com
 - **WhatsApp:** +254791299625
 
