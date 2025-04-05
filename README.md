@@ -1,66 +1,46 @@
-# Juliet Portfolio
+Juliet Ayesa — Portfolio
+Welcome to my personal portfolio! This site highlights my experience, skills, and selected projects as a front-end developer passionate about building accessible and engaging web experiences.
 
-Welcome to **Juliet**, a personal portfolio hosted on GitHub Pages. This project showcases my work, projects, and contributions in software development.
+🌐 Live Site: juliet-ayesa-portfolio-website.netlify.app
 
-## About
+👋 About Me
+Hi! I'm Juliet Ayesa, a front-end developer based in Nigeria. I'm passionate about creating inclusive and visually appealing websites using modern web technologies. With a strong foundation in HTML, CSS, and JavaScript, I focus on delivering polished, responsive, and accessible user experiences.
 
-Juliet is a web-based portfolio that highlights my skills, projects, and achievements. It serves as a central hub for visitors to explore my work and learn more about my expertise in software development, programming, and related fields.
+🛠 Skills
+Languages & Tools:
+HTML • CSS • JavaScript • Sass • Git • NPM
 
-## Features
+Frameworks:
+React (70%)
 
-- **Responsive Design:** Accessible on various devices, from desktops to mobile phones.
-- **Projects Showcase:** Displays a collection of projects with descriptions and links to repositories.
-- **Stylish UI/UX:** Custom styling for an engaging user experience.
-- **Dark Theme:** Modern aesthetics with background effects.
-- **Contact Information:** Provides ways to connect and collaborate.
-- **Live Deployment:** Hosted using GitHub Pages for easy access.
+Other:
+Accessibility Best Practices • Version Control • Responsive Design
 
-## Live Preview
+🚀 Projects
+Here are some of the projects featured in my portfolio:
 
-Visit the live site: [Juliet Portfolio](https://transs-dev.github.io/Juliet/index.html)
+Space Tourism Website – A multi-page responsive website built with HTML, CSS, and JavaScript.
 
-## Installation
+Manage Landing Page – A responsive landing page showcasing layout and interactivity.
 
-If you want to run the project locally, follow these steps:
+Natours Website – Travel website built with strong visual design using HTML & CSS.
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/transs-dev/Juliet.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd Juliet
-   ```
-3. Open `index.html` in your browser or use a local server.
+Easybank App – A modern banking landing page built to demonstrate clean UI/UX.
 
-## Services Offered
+Live links and GitHub repos are included on the site under the Projects section.
 
-- **AI Model Development:** Designing and developing AI models tailored to specific business needs.
-- **Data Analysis and Visualization:** Providing comprehensive data analysis and visualization services to help clients understand complex data trends.
-- **Natural Language Processing Solutions:** Creating and implementing NLP solutions for enhanced user experiences.
-- **Training and Workshops:** Conducting sessions focused on AI evaluation techniques, machine learning, and data analysis.
-- **Virtual Assistant Services:** Offering services such as email and calendar management, project coordination, data entry, and social media management.
+📫 Contact Me
+If you’d like to collaborate or just want to say hello, please don’t hesitate to reach out via the Contact form.
 
-## Competency Skills
+You can also find me on:
 
-- **Machine Learning Algorithms:** 100%
-- **Data Analysis:** 95%
-- **Natural Language Processing (NLP):** 90%
-- **Programming Languages (Python, R):** 85%
-- **Collaboration and Communication:** 90%
-- **Virtual Assistance:** 97%
-- **Ethics in AI:** 90%
+GitHub
 
-## Contact
+Frontend Mentor
 
-For inquiries or collaboration, reach out via:
+LinkedIn
 
-- **Email:** ayesajuliee@gmail.com
-- **WhatsApp:** +254791299625
 
-## License
-
-This project is open-source and available under the **MIT License**.
-
-Thank you for visiting my portfolio!
+Thanks for visiting!
+Crafted with love by Juliet Ayesa 💻✨
 
