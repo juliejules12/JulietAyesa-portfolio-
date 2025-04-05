@@ -1,46 +1,35 @@
-Juliet Ayesa — Portfolio
-Welcome to my personal portfolio! This site highlights my experience, skills, and selected projects as a front-end developer passionate about building accessible and engaging web experiences.
+💼 Juliet Ayesa – AI Evaluator & Virtual Assistant
+Welcome to my professional portfolio! I'm Juliet Ayesa, an AI Evaluator and Virtual Assistant based in Nairobi, Kenya. With a strong background in artificial intelligence, machine learning, and data analysis, I’m passionate about building ethical, impactful, and efficient digital solutions that empower individuals and businesses.
 
-🌐 Live Site: juliet-ayesa-portfolio-website.netlify.app
+🔗 Live Site: https://transs-dev.github.io/Juliet
 
-👋 About Me
-Hi! I'm Juliet Ayesa, a front-end developer based in Nigeria. I'm passionate about creating inclusive and visually appealing websites using modern web technologies. With a strong foundation in HTML, CSS, and JavaScript, I focus on delivering polished, responsive, and accessible user experiences.
+🧠 What I Do
+I specialize in:
 
-🛠 Skills
-Languages & Tools:
-HTML • CSS • JavaScript • Sass • Git • NPM
+🤖 AI Model Evaluation: Assessing model accuracy, fairness, and performance.
 
-Frameworks:
-React (70%)
+📊 Data Analysis: Using Python, R, and modern libraries for deep insights and visualizations.
 
-Other:
-Accessibility Best Practices • Version Control • Responsive Design
+💬 Natural Language Processing (NLP): Improving chatbot performance and automating language tasks.
 
-🚀 Projects
-Here are some of the projects featured in my portfolio:
+🛠️ AI/ML Development: Proficient in PyTorch, Keras, TensorFlow.
 
-Space Tourism Website – A multi-page responsive website built with HTML, CSS, and JavaScript.
+📅 Virtual Assistance: Project coordination, calendar/email management, content creation, and more.
 
-Manage Landing Page – A responsive landing page showcasing layout and interactivity.
+🛠️ Tech Stack
+Languages: Python, R, JavaScript, HTML/CSS
 
-Natours Website – Travel website built with strong visual design using HTML & CSS.
+Frameworks: PyTorch, TensorFlow, Keras
 
-Easybank App – A modern banking landing page built to demonstrate clean UI/UX.
+Tools: Git, Jupyter, VS Code, Trello, Notion
 
-Live links and GitHub repos are included on the site under the Projects section.
+Other Skills: Data Annotation, Social Media Management, Team Leadership
 
-📫 Contact Me
-If you’d like to collaborate or just want to say hello, please don’t hesitate to reach out via the Contact form.
+🌍 Location
+📍 Nairobi, Kenya
+📧 ayesajuliee@gmail.com
+📱 +254 791 299 625
 
-You can also find me on:
-
-GitHub
-
-Frontend Mentor
-
-LinkedIn
-
-
-Thanks for visiting!
-Crafted with love by Juliet Ayesa 💻✨
+📈 Let's Connect
+Whether you’re looking for AI insights, data expertise, or a reliable virtual assistant, I’m here to help! Feel free to visit my site or reach out via email.
 
